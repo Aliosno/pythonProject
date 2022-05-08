@@ -14,7 +14,6 @@ for i in list_age :
 
  elif 25<i :
      summ += 1390
-
 if n_tiket > 3 :
      summ *= 0.9
 
